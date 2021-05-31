@@ -4,7 +4,7 @@ Potrebno je instalirati:
 * VS Code
 * Git
 * Ruby
-** Jekyll
+  * Jekyll
 
 ## Ovo je podnaslov
 
